@@ -34,4 +34,4 @@ In this project, I wanted to present the issue of customer segmentation in a way
 3. Data processing scripts are being kept in the file Customer Segmentation.ipynb.
 
 ## Contact
-* Please feel free to reach me on my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
+* Please feel free to reach me through my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
