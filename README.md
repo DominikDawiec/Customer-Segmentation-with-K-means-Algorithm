@@ -1,6 +1,6 @@
 # Customer Segmentation with K means Algorithm
 
-In this project, I wanted to present the issue of customer segmentation in a way that is understandable to non-technical people, then I did segmentation with the K means algorithm in Python
+In this project, I wanted to present the customer segmentation in a way that is understandable for non-technical people
 
 #### Project Status: [Completet]
 
